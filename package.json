@@ -6,7 +6,7 @@
   "repository": {
     "url": "https://github.com/haxiom/haxfred-irc-legacy-personality"
   },
-  "main": "./lib/haxfred-irc-pm",
+  "main": "./lib/haxfred-irc-legacy-personality",
   "keywords": [
     "irc",
     "haxfred"
