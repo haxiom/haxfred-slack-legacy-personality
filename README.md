@@ -1,0 +1,2 @@
+Haxfred-IRC-Legacy-Personality
+==============================
